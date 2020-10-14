@@ -112,7 +112,7 @@ img {
 /* Cards */
 .card {
   padding: 1rem;
-  border: #ccc 1px dotted;
+  border: #ccc 1px solid;
   margin: 0.7rem 0;
 }
 
@@ -414,5 +414,11 @@ table th {
   .navbar ul {
     text-align: center;
     justify-content: center;
+  }
+}
+
+@media (max-width: 395px) {
+  .mobile{
+    grid-template-columns: 1fr;
   }
 }
