@@ -71,7 +71,7 @@ const User =({match}) => {
                             <li>
                                 {blog && (
                                     <Fragment>
-                                        <strong>Website:</strong>  <a href={blog} target="_blank" rel="noopener noreferrer">{blog}</a>  
+                                        <strong>Website:</strong>  <a href={blog.includes('http://') || blog.includes('https://') ? blog : `//${blog}` } target="_blank" rel="noopener noreferrer">{blog}</a>  
                                     </ Fragment>    
                                 )}
                             </li>
