@@ -1,4 +1,8 @@
 ![Build and Deploy](https://github.com/stephin007/githubfinder/workflows/Build%20and%20Deploy/badge.svg?branch=main)  ![CodeQL](https://github.com/stephin007/githubfinder/workflows/CodeQL/badge.svg?branch=main)
+[![GitHub issues](https://img.shields.io/github/issues/stephin007/githubfinder)](https://github.com/stephin007/githubfinder/issues)
+[![GitHub forks](https://img.shields.io/github/forks/stephin007/githubfinder)](https://github.com/stephin007/githubfinder/network)
+[![GitHub stars](https://img.shields.io/github/stars/stephin007/githubfinder)](https://github.com/stephin007/githubfinder/stargazers)
+[![GitHub license](https://img.shields.io/github/license/stephin007/githubfinder)](https://github.com/stephin007/githubfinder/blob/main/LICENSE)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
