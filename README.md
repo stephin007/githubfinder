@@ -28,3 +28,21 @@
     ```
     yarn install
     ```
+
+## Usage
+In the project directory, `githubfinder/` you can run:
+
+```
+yarn start
+```
+Runs the app in the development mode.
+
+Open http://localhost:3000 to view it in the browser.
+
+Here is a preview of how the app should look:
+
+
+```
+yarn build
+```
+Builds the app for production in the build folder.
