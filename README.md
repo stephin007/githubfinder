@@ -41,6 +41,7 @@ Open http://localhost:3000 to view it in the browser.
 
 Here is a preview of how the app should look:
 
+![Github Finder Interface Demo](https://i.imgur.com/r9KrMeS.gif)
 
 ```
 yarn build
