@@ -43,7 +43,8 @@ Here is a preview of how the app should look:
 
 ![Github Finder Interface Demo](https://i.imgur.com/r9KrMeS.gif)
 
+
+To build the app for production run:
 ```
 yarn build
 ```
-Builds the app for production in the build folder.
