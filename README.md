@@ -8,7 +8,7 @@
 1. Clone the repository.
 
     ```
-    git clone https://github.com/ameybhavsar24/githubfinder.git
+    git clone https://github.com/stephin007/githubfinder.git
     ```
 
 2. Change directory to `githubfinder/`
